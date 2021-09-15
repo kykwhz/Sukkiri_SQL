@@ -1,9 +1,21 @@
 # Sukkiri_SQL
 
-mysql> SHOW TABLES;
-+-------------------+
-| Tables_in_6java   |
-+-------------------+
-| housekeeping_book |
-+-------------------+
-1 row in set (0.00 sec)
+https://book.impress.co.jp/books/1118101071
+
+## 第8章 複数テーブルの結合
+
+### 8.1 「リレーショナル」の意味
+### 8.2 テーブルの結合
+### 8.3 結合条件の取り扱い
+### 8.4 結合に関する様々な構文
+### 8.5 この章のまとめ
+### 8.6 練習問題
+### 8.7 練習問題の解答
+
+    mysql> SHOW TABLES;
+    +-------------------+
+    | Tables_in_6java   |
+    +-------------------+
+    | housekeeping_book |
+    +-------------------+
+    1 row in set (0.00 sec)
